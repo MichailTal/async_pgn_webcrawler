@@ -1,6 +1,6 @@
 # Async Web Crawler
 
-A robust and generic Python crawler for downloading pgn files from TWIC (https://theweekinchess.com/a-year-of-pgn-game-files)and PGMentor (https://www.pgnmentor.com/files.html)asynchronously.
+A robust and generic Python crawler for downloading pgn files from TWIC (https://theweekinchess.com/a-year-of-pgn-game-files) and PGMentor (https://www.pgnmentor.com/files.html) asynchronously.
 
 ## Features
 - Async capabilities with `aiohttp`.
